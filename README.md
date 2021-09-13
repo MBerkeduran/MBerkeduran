@@ -14,7 +14,7 @@ sample text
  </details>
 
  <details>
- ><summary><b>Ücretsiz eğitimler</b></summary>
+ <summary><b>Ücretsiz eğitimler</b></summary>
  Eğitim sitesi 1 
  <a href="https://freesite1.com" rel="nofollow">https://site1.com</a>
  <br>
