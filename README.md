@@ -1,13 +1,12 @@
 <details>
 <b><summary> Kurslar</summary>
- <details><b><summary> ÜcretliKurslar</summary></b>
 
-
+## Ücretli kurslar
 >https://www.pluralsight.com/browse/information-cyber-security \
 >https://www.pluralsight.com/courses/ethical-hacking-understanding \
 >https://www.udemy.com/course/linux-privilege-escalation-for-beginners/ \
 >https://www.udemy.com/course/windows-privilege-escalation-for-beginners/ 
- </details>
+ 
 
 ### Ücretsiz Kurslar
 #### Udemy 
