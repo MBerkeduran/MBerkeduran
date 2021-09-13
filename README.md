@@ -1,7 +1,6 @@
 <details>
-
 <b><summary> Eğitimler</summary>
-  
+  ---
   * Süreli eğitimler
     - Example site 1: https://examplesite.com
     - Example site 2: https://examplesite.com
