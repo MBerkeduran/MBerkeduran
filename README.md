@@ -2,9 +2,9 @@
 sample text
 
 <details>
-<summary><b>Eğitimler</b></summary>  
-<details>
- ><summary><b>Ücretli eğitimler</b></summary>
+<summary><b>Eğitimler</b></summary>
+><details>
+ <summary><b>Ücretli eğitimler</b></summary>
  Eğitim sitesi 1 
  <a href="https://site1.com" rel="nofollow">https://site1.com</a>
  <br>
