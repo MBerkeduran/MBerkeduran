@@ -1,6 +1,6 @@
 <details>
  <summary>Eğitimler</summary>
-   ##Süreli
+   ## Süreli
   > ### Siber Küme - Python https://www.youtube.com/watch?v=kSUgtfXypUk \
   > ### ... https://example.com
    ## Süresiz
