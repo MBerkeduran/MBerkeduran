@@ -3,7 +3,7 @@
 
 <b><summary> Kurslar</summary>
 
-> ### Ücretli Kurslar 
+### Ücretli Kurslar 
 
 >https://www.pluralsight.com/browse/information-cyber-security \
 >https://www.pluralsight.com/courses/ethical-hacking-understanding \
@@ -42,7 +42,7 @@ Ayrica topluluktan Furkan Tasdemir'in soyle bir egitim notlari kitabi var; https
 * Birçok farklı alanda 1500 ücretsiz kurs: http://www.openculture.com/freeonlinecourses 
 * Cloud Sec: https://stanislas.io/2019/04/25/preparation-guide-for-microsoft-az-500-microsoft-azure-security-technologies-certification/ 
 * AWESOME serisi, tüm IT konularında internette bulabileceğiniz en büyük kaynaklardan biri. https://github.com/LuNiZz/awesome
-  - Awesome HACKING : https://github.com/carpedm20/awesome-hacking#readme
+  > Awesome HACKING : https://github.com/carpedm20/awesome-hacking#readme
   - Awesome SECURITY : https://github.com/sbilly/awesome-security#readme
   - Awesome WEB SECURITY : https://github.com/qazbnm456/awesome-web-security#readme
 * https://read.arkakapimag.com
