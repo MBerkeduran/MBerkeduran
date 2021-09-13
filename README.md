@@ -1,4 +1,5 @@
 <details>
+  
 <b><summary> Eğitimler</summary>
   
   * Süreli eğitimler
