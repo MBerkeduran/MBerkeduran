@@ -1,36 +1,37 @@
 ### Project Review 
-text text text text text text text text text text text text text text text text text text text text text text text text text text text text 
-text text text text text text text text text text text text text text text text 
+sample text
+
+ <details>
+<summary><b>Eğitimler</b></summary>  
+<details>
+<summary><b>Ücretli eğitimler</b></summary>
+Eğitim sitesi 1 
+<a href="https://site1.com" rel="nofollow">https://site1.com</a>
+<br>
+Eğitim sitesi 2
+<a href="https://site2.com"
+rel="nofollow">https://site2.com</a>
+</details>
 
 <details>
-<summary>Text1</summary>
-  ### description of text
-  text: https://fuadlibilisim.org \
-  text: https://fuadlibilisim.org \
-  text: https://fuadlibilisim.org \
-  
-  <details>
-  <summary>undertext1</summary>
-    ### Description of undertext1
-  undertext1: https://fuadlibilisim.com
-  undertext1: https://fuadlibilisim.org \
-  undertext1: https://fuadlibilisim.org \
-  </details>
-  
-  <details>
-  <summary>undertext2</summary>
-    ### Description of undertext2
-  undertext1: https://fuadlibilisim.com
-  undertext1: https://fuadlibilisim.org 
-  undertext1: https://fuadlibilisim.org 
-  </details>
-  
-  <details>
-  <summary>undertext3</summary>
-    ### Description of undertext3
-  -undertext1: https://fuadlibilisim.com
-  -undertext1: https://fuadlibilisim.org 
-  -undertext1: https://fuadlibilisim.org 
-  </details>
+<summary><b>Ücretsiz eğitimler</b></summary>
+Eğitim sitesi 1 
+<a href="https://freesite1.com" rel="nofollow">https://site1.com</a>
+<br>
+Eğitim sitesi 2
+<a href="https://freesite2.com"
+rel="nofollow">https://site2.com</a>
+</details>
+</details>
 
+<details>
+<summary><b>Sertifika kaynakları</b></summary>
+
+Kaynak sitesi 1
+<a href="https://certsite1.com 
+rel="nofollow">https://certsite1.com</a>
+
+Kaynak sitesi 2
+<a href="https://certsite2.com 
+rel="nofollow">https://certsite2.com</a>
 </details>
