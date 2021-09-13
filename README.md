@@ -1,5 +1,5 @@
-### Sample Text
-#### sample text
+### Başlık
+#### Açıklama 
 
 FÜ ABT Sosyal Medya Linkleri
 - "img.shields.io"dan çekilebilir
