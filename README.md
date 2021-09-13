@@ -1,9 +1,10 @@
 ### Başlık
-#### Açıklama 
 ---
+#### Açıklama 
 
-FÜ ABT Sosyal Medya Linkleri
-> "img.shields.io"dan çekilebilir
+
+### FÜ ABT Sosyal Medya Linkleri
+  > "img.shields.io"dan çekilebilir
 ---
 
 <details>
