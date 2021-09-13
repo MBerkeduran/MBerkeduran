@@ -1,9 +1,6 @@
 <details>
-
-
 <b><summary> Kurslar</summary>
-<details>
-<b><summary> ÜcretliKurslar</summary>
+ <details><b><summary> ÜcretliKurslar</summary></b>
 
 
 >https://www.pluralsight.com/browse/information-cyber-security \
